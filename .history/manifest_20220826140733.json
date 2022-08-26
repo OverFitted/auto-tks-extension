@@ -1,0 +1,12 @@
+{
+    "name": "auto-tks",
+    "version": "0.0.1",
+    "description": "Auto tax estimator using tks.ru API",
+    "manifest_version": 3,
+    "icons": {
+        "16": "assets/icons/test.png",
+        "32": "assets/icons/test.png",
+        "16": "assets/icons/test.png",
+        "16": "assets/icons/test.png",
+    }
+}
